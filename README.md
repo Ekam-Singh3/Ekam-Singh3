@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Ekam Singh  
 
-<!--
-**Ekam-Singh3/Ekam-Singh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.E. Mechatronics** — Robotics design, mechanical systems & rapid prototyping  
+📍 Mohali, Punjab, India  
 
-Here are some ideas to get you started:
+🚀 Aspiring **Robotics Engineer** passionate about **robotic arms, rover systems, and simulation-driven design**.  
+Currently exploring electronics & control systems to build a full-stack robotics skillset.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect With Me  
+- 📧 Email: **ekamsingh11019@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ekam-singh3)  
+- 💻 [GitHub](https://github.com/Ekam-Singh3)  
+- 🌐 Portfolio: [ekamsingh.vercel.app](https://ekamsingh.vercel.app)  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Fields**  
+- Mechanical Design • CAD Modeling • Robotics • Simulation & Analysis • Prototyping  
+
+**Software & Tools**  
+- SolidWorks • ANSYS • NX • Creo • HyperMesh • AutoCAD • Cura • PrusaSlicer • Excel  
+
+**Programming & Embedded Systems**  
+- C, C++  
+- Arduino, Teensy, STM32  
+- Sensor Integration, PID/PWM Motor Control  
+
+**Simulation/Analysis**  
+- FEA (Static/Dynamic) • CFD (ANSYS Fluent) • Stress Analysis • Topology Optimization  
+
+---
+
+
+
+
+## 🤝 Let's Talk!  
+
+💬 Always open to collaborations in:  
+- Robotics Design  
+- Simulation & Analysis  
+- Rover & Arm Mechanisms  
+- Prototyping & Manufacturing  
+
+📩 Reach out via [LinkedIn](https://www.linkedin.com/in/ekam-singh3).  
+
+---
+
+⭐ *This README is inspired by my [portfolio website](https://ekamsingh.vercel.app), built with React, Tailwind, and anime.js.*  
